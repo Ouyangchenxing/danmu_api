@@ -1,4 +1,3 @@
-```yaml
 name: Fork Sync
 
 on:
@@ -37,4 +36,3 @@ jobs:
       - name: Push changes
         run: |
           git push origin main
-```
